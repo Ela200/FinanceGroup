@@ -1,8 +1,7 @@
-# [Your Project Title Here]
-
+Time Series Forecasting for fincance
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+(https://github.com/Ela200/FinanceGroup)
 
 ## Description
 
