@@ -1,0 +1,18 @@
+Baseline Model Overview
+This section presents our initial attempt at forecasting stock returns using historical price data from 50 publicly listed companies. The objective is to compare various predictive models and establish performance benchmarks that will guide future refinements.
+
+🛠️ Models Applied
+We implemented a diverse set of time-series and machine learning models:
+
+CatBoost: A gradient boosting algorithm optimized for categorical data
+
+LSTM: A deep learning architecture designed for capturing long-term sequential dependencies
+
+Prophet: A Bayesian forecasting tool ideal for trend and seasonality
+
+ARIMA & SARIMA: Classical models tailored for linear and seasonal time-series analysis
+
+Random Boost: An ensemble method used to capture nonlinear relationships and provide a benchmark
+
+📈 Approach
+Each model was trained individually using company-specific price trends and evaluated based on forecast accuracy metrics such as MSE and R-squared. Performance varied by company and model, highlighting strengths in different volatility regimes and data structures.
