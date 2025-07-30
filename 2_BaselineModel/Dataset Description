@@ -1,0 +1,5 @@
+The dataset comprises daily stock market data for 20 publicly listed companies 
+over the past 15 years, retrieved from Yahoo Finance.
+It includes standard time-series features such as closing prices, trading volume, and
+date indices. This data offers a rich basis for analyzing long-term market trends
+and testing predictive models.
