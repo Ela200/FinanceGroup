@@ -5,16 +5,16 @@ Time Series Forecasting for fincance
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+This project aims to forecast stock returns using a diverse set of models, ranging from traditional statistical techniques like ARIMA and GARCH to machine learning algorithms such as XGBoost, LightGBM, CatBoost, and Random Forest. Additionally, deep learning architectures including RNN, LSTM, and N-BEATS, as well as the Prophet model, were implemented to explore their effectiveness in capturing financial time series dynamics. The objective was to experiment with various modeling approaches and understand their practical implementation challenges and predictive behaviors on real stock market data.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Regression
 
 ### Results Summary
 
 - **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
+- **Evaluation Metric:** MSE, AMSE
 - **Result:** [e.g., 95% accuracy, F1-score of 0.8]
 
 ## Documentation
