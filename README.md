@@ -14,7 +14,7 @@ Regression
 ### Results Summary
 
 - **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** MSE, AMSE
+- **Evaluation Metric:** MAE and RMSE
 - **Result:** [e.g., 95% accuracy, F1-score of 0.8]
 
 ## Documentation
