@@ -16,7 +16,7 @@ Regression
 - **Best Model:** LightGBM
 - **Evaluation Metric:** MAE and RMSE
 - **Result:** 0.03406 MAE score over the 20 stocks and 0.04592 RMSE score over the 20 stocks 
-- 
+  
 
 ## Documentation
 
