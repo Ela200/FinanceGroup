@@ -23,7 +23,7 @@ Regression
 1. **[Literature Review](0_LiteratureReview/README.md)**
 2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
 3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Models](3_Models/model_definition_evaluation)**
+4. **[Models](3_Models/README.md)** 
 5. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
