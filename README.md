@@ -13,9 +13,10 @@ Regression
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
+- **Best Model:** LightGBM
 - **Evaluation Metric:** MAE and RMSE
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Result:** 0.03406 MAE score over the 20 stocks and 0.04592 RMSE score over the 20 stocks 
+- 
 
 ## Documentation
 
