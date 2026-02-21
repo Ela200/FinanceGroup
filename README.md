@@ -1,4 +1,4 @@
-Time Series Forecasting for fincance
+Time Series Forecasting for finance
 ## Repository Link
 
 (https://github.com/Ela200/FinanceGroup)
